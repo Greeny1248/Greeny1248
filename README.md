@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Greeny1248
-- 👀 I’m interested in; guitars, mmo's, and recently coding!
+- 👀 I’m interested in; guitars, mmo's, and software Development!
 - 🌱 I’m currently progressing with JS, React, PSQL, CSS and HTML
 
 <!---
